@@ -23,6 +23,4 @@ index.html
     </div>
     </body>
 
-DEMO
-----
-    http://jsdo.it/i47_rozary/teFj
+[DEMO](http://jsdo.it/i47_rozary/teFj)
